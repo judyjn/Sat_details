@@ -2,6 +2,6 @@
 
 This project finds satellite position and velocity from given TLEs.
 
-Prerequisite
+## Setup
 
-Install sgp4 package using pip install sgp4
+To setup the enviroment for this project, install required packages using `pip install requirements.txt`
